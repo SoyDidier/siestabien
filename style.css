@@ -1,0 +1,16 @@
+a:visited{
+    color: blueviolet;
+}
+.datos{
+    background-color: chartreuse;
+    color: orangered;
+}
+.contenido{
+    background-color: red;
+}
+.xd{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    display:flex;
+    flex-direction:column;
+}
